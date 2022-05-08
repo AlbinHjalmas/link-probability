@@ -1,5 +1,6 @@
 build/
 dist/
 nbproject/
+src/*.class
 build.xml
 manifest.mf
